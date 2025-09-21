@@ -131,7 +131,7 @@ flowchart TB
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/cv-reader-expert.git
+   git clone https://github.com/Hassan23121999/mini-rag-project.git
    cd cv-reader-expert
    ```
 
