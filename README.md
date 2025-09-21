@@ -160,24 +160,6 @@ flowchart TB
 
 ---
 
-## Project Structure
-
-```
-cv-reader-expert/
-├── app.py                  # Main application file with Gradio interface
-├── rag_pipeline.py         # RAG implementation and query processing
-├── classifier.py           # Query classification logic
-├── vector_store.py         # FAISS vector store management
-├── requirements.txt        # Python dependencies
-├── .env                    # Environment variables (API keys)
-├── data/
-│   └── cvs/               # Directory for CV PDF files
-├── embeddings/            # Cached embeddings storage
-└── README.md              # This file
-```
-
----
-
 ## Dependencies
 
 Key libraries used in this project:
