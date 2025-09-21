@@ -1,0 +1,19 @@
+# Core
+langchain==0.3.7
+langgraph==0.2.34
+
+# LLMs & Embeddings
+openai==1.47.0
+
+# Vector Store
+faiss-cpu==1.8.0.post1
+
+# Document Loading
+pypdf==4.2.0
+
+# UI
+gradio==4.44.0
+
+# Optional but recommended
+tiktoken==0.8.0   # for token counting
+python-dotenv==1.0.1  # if you want to load OPENAI_API_KEY from .env
